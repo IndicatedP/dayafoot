@@ -8,7 +8,7 @@ title: Day Afoot · Privacy policy
 
 Day Afoot plans your days in Paris and walks you through them. This policy explains what information the app uses, where it goes, and the choices you have. In short: your trip lives on your phone, we never sell your data, and there is no advertising or cross-app tracking.
 
-Day Afoot is made by [YOUR NAME OR COMPANY], based in Paris, France ("we"). You can reach us at [SUPPORT EMAIL].
+Day Afoot is made by Alan Pupkin, based in Paris, France ("we"). You can reach us at alanclaudepupkin@gmail.com.
 
 ## What we collect, and why
 
@@ -50,7 +50,7 @@ Trip details, photos and health data stay on your device until you delete them o
 
 ## Your rights and choices
 
-You can turn off location, camera, photos and Health access at any time in your iPhone's Settings. You can delete your account and its data yourself in the app, as described above. You can also ask us to access, correct, export or delete your personal data, or object to how we use it, by writing to [SUPPORT EMAIL]. Deleting the app removes everything stored on your phone. If you are in the EU, you also have the right to complain to your data protection authority; in France this is the CNIL (www.cnil.fr).
+You can turn off location, camera, photos and Health access at any time in your iPhone's Settings. You can delete your account and its data yourself in the app, as described above. You can also ask us to access, correct, export or delete your personal data, or object to how we use it, by writing to alanclaudepupkin@gmail.com. Deleting the app removes everything stored on your phone. If you are in the EU, you also have the right to complain to your data protection authority; in France this is the CNIL (www.cnil.fr).
 
 ## Children
 
@@ -66,4 +66,4 @@ If we change this policy, we will update the date above and, for significant cha
 
 ## Contact
 
-[YOUR NAME OR COMPANY], Paris, France · [SUPPORT EMAIL]
+Alan Pupkin, Paris, France · alanclaudepupkin@gmail.com

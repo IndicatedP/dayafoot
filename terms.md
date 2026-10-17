@@ -6,7 +6,7 @@ title: Day Afoot · Terms of use
 
 **Day Afoot** · Last updated: 16 October 2026
 
-These terms apply when you use the Day Afoot app, made by [YOUR NAME OR COMPANY], based in Paris, France ("we"). By using the app you agree to them. They sit alongside Apple's standard Licensed Application End User License Agreement (www.apple.com/legal/internet-services/itunes/dev/stdeula/), which also applies. If the two conflict, these terms win where the law allows.
+These terms apply when you use the Day Afoot app, made by Alan Pupkin, based in Paris, France ("we"). By using the app you agree to them. They sit alongside Apple's standard Licensed Application End User License Agreement (www.apple.com/legal/internet-services/itunes/dev/stdeula/), which also applies. If the two conflict, these terms win where the law allows.
 
 ## The app
 
@@ -44,4 +44,4 @@ These terms are governed by French law. If you are a consumer living in the EU, 
 
 ## Contact
 
-[YOUR NAME OR COMPANY], Paris, France · [SUPPORT EMAIL]
+Alan Pupkin, Paris, France · alanclaudepupkin@gmail.com
